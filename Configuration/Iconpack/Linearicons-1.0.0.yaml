@@ -1,0 +1,25 @@
+iconpack:
+  title: "Linearicons"
+  key: "linear"
+  version: "1.0.0"
+  url: "https://linearicons.com/free"
+  logo: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/Logo.svg"
+
+  renderTypes:
+    webfont:
+      css: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/css/webfont.css"
+      prefix: "lnr-"
+      attributes:
+        class: "lnr"
+        aria-hidden: "true"
+
+    svg:
+      source: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/svgs/"
+      attributes:
+        fill: "currentColor"
+
+    svgInline:
+      source: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/svgs/"
+      prefix: ""
+
+  icons: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/metadata/icons.yml"
