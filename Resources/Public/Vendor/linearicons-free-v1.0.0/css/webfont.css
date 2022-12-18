@@ -11,10 +11,10 @@
 }
 
 .lnr {
-  font-family: 'Linearicons-Free';
+  font-family: 'Linearicons-Free' !important;
   speak: none;
   font-style: normal;
-  font-weight: normal;
+  font-weight: normal !important;
   font-variant: normal;
   text-transform: none;
   line-height: 1;
