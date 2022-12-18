@@ -6,6 +6,7 @@ iconpack:
   logo: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/Logo.svg"
 
   renderTypes:
+
     webfont:
       css: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/css/webfont.css"
       prefix: "lnr-"
@@ -15,11 +16,12 @@ iconpack:
 
     svg:
       source: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/svgs/"
-      attributes:
-        fill: "currentColor"
+      prefix: "lnr-"
 
     svgInline:
       source: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/svgs/"
-      prefix: ""
+      attributes:
+        fill: "currentColor"
+        role: "img"
 
   icons: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/metadata/icons.yml"
