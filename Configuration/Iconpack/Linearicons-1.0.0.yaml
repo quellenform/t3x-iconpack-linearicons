@@ -12,7 +12,6 @@ iconpack:
       prefix: "lnr-"
       attributes:
         class: "lnr"
-        aria-hidden: "true"
 
     svg:
       source: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/svgs/"
@@ -22,6 +21,5 @@ iconpack:
       source: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/svgs/"
       attributes:
         fill: "currentColor"
-        role: "img"
 
   icons: "EXT:iconpack_linearicons/Resources/Public/Vendor/linearicons-free-v1.0.0/metadata/icons.yml"
